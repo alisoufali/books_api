@@ -42,3 +42,7 @@ python main.py
 ```
 
 You may want to change the link and the port. To do so, please modify the main.py file and change `0.0.0.0` to the ip address of your choice and `8000` to the port of your choice.
+
+## How to use?
+
+This project has multiple endpoints. All documentation are provided in the openapi (swagger UI). Just run the project and head to the home directory (link `0.0.0.0:8000/`). You will find all documentations there.
